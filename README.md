@@ -1,3 +1,4 @@
+教学：https://www.youtube.com/watch?v=zJphzmQeRAk
 > Looking for the original YuE? Its code, documentation, and license are preserved on the **[YuE-v1 branch](https://github.com/multimodal-art-projection/YuE/tree/YuE-v1)**.
 
 <p align="center">
